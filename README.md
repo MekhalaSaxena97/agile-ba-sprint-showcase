@@ -18,6 +18,8 @@ What is in this repository
 
 📄 **Business Problem Statement** — What is the problem, why does it matter, and how will we know when it is solved?
 
+![Root Cause Analysis — Fishbone Diagram](./fishbone-root-cause-v1.drawio.png)
+
 👥 **Stakeholder Register** — Who is affected, who has power, and how does the BA manage each relationship?
 
 🔀 **AS-IS Process Map** — What does the current journey actually look like — and where does it break?
