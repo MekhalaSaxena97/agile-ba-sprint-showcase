@@ -14,7 +14,19 @@ The root cause - uncovered through a structured 5 Whys analysis - was a governan
 
 What is in this repository
 
-ArtifactWhat it isBusiness Problem StatementStructured framing of the problem - situation, root cause, business impact, success criteriaStakeholder RegisterPower/interest matrix, RACI, and engagement strategy for six stakeholdersAS-IS Process MapBPMN 2.0 swimlane diagram of the current journey - six failure points annotatedUser Stories + Acceptance CriteriaTen sprint-ready stories with Given/When/Then criteria and MoSCoW prioritisationJira Sprint BoardSprint 1 loaded, story-pointed, and ready for planningTO-BE Process MapFuture-state BPMN diagram - same structure, failure points eliminated
+## Artifacts
+
+📄 **Business Problem Statement** — What is the problem, why does it matter, and how will we know when it is solved?
+
+👥 **Stakeholder Register** — Who is affected, who has power, and how does the BA manage each relationship?
+
+🔀 **AS-IS Process Map** — What does the current journey actually look like — and where does it break?
+
+✅ **User Stories + Acceptance Criteria** — What does the solution need to do, written so a developer can build it tomorrow?
+
+📋 **Jira Sprint Board** — How does a BA load and structure a sprint in the real world?
+
+🔀 **TO-BE Process Map** — What does the improved journey look like after delivery?
 
 How it was built
 
