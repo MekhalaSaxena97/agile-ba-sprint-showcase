@@ -28,6 +28,8 @@ What is in this repository
 
 📋 **Jira Sprint Board** — How does a BA load and structure a sprint in the real world?
 
+![Jira Sprint Board — Sprint 1](./05-jira-board/sprint-board-screenshot.png)
+
 🔀 **TO-BE Process Map** — What does the improved journey look like after delivery?
 
 How it was built
