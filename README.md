@@ -1,76 +1,24 @@
-What this project is
+Agile BA Sprint Showcase
 
-Most portfolios show code. This one shows what comes before the code.
-This repository contains the complete set of Business Analyst artifacts produced for a fictional but realistic Agile sprint at NedBank Digital — a Dutch mobile-first bank. The feature: redesigning a broken customer document upload journey that had a 32% drop-off rate and was costing the business an estimated €2.1M in annual revenue.
-The goal is simple: demonstrate what a senior BA actually produces in a 2-week sprint — from stakeholder analysis to signed-off user stories — and make that work visible.
+What a Business Analyst actually produces in a two-week sprint — made visible.
 
-The business problem:
 
-One in three customers who began the identity verification process abandoned it.
-The cause was not a system failure. It was a design and ownership failure.
+Most portfolios show the output of analysis. This one shows the thinking that makes the output worth building.
+This project documents the full set of BA deliverables for a single Agile sprint at a fictional Dutch digital bank. The feature is a redesign of a broken customer document upload journey - a 32% drop-off rate, €2.1M in revenue risk, and a root cause that had nothing to do with the technology.
+It is not a dashboard. It is not a model. It is the work that happens before anyone writes a line of code - and the work that determines whether the right thing gets built.
 
-MetricCurrent stateUpload drop-off rate32%Estimated annual revenue at risk€2.1MSupport tickets per month (upload-related)1,840Average verification completion time4.2 daysRoot causeNo product owner assigned post-2023 restructure
+The problem
 
-The 6 BA artifacts
-#ArtifactDescriptionStatus1Business Problem StatementSituation, root cause (5 Whys), business impact across 3 levers, success metrics✅ Complete2Stakeholder RegisterPower/interest matrix, RACI, 6 stakeholders with engagement strategy✅ Complete3AS-IS Process MapBPMN 2.0 swimlane diagram — 3 lanes, 6 annotated failure points🔄 In progress4User Stories + Acceptance Criteria10 stories, Given/When/Then AC, MoSCoW prioritisation✅ Complete5Jira Sprint BoardSprint setup, epics, story points, capacity planning🔄 In progress6TO-BE Process MapBPMN 2.0 future-state diagram with improvement annotations🔄 In progress
+NedBank Digital's identity verification flow was losing one in three customers mid-process. Support tickets were running at 1,840 per month. The average customer took 4.2 days to complete a process that should take ten minutes.
+The root cause - uncovered through a structured 5 Whys analysis - was a governance gap: no product owner had been assigned to the verification journey after a 2023 team restructure. The system worked. The experience did not.
 
-Skills demonstrated
-Business Analysis          Requirements Engineering    Agile / Scrum
-─────────────────────────  ──────────────────────────  ─────────────────────
-✦ Business problem framing  ✦ User story writing         ✦ Sprint planning
-✦ Stakeholder mapping       ✦ Acceptance criteria        ✦ Backlog refinement
-✦ Root cause analysis       ✦ MoSCoW prioritisation      ✦ Jira board setup
-✦ Gap analysis              ✦ Requirements traceability  ✦ Velocity estimation
-✦ Business case writing     ✦ Non-functional req.        ✦ DoD and DoR
+What is in this repository
 
-Process Modelling          Documentation
-─────────────────────────  ──────────────────────────
-✦ BPMN 2.0 notation        ✦ Professional BA documents
-✦ Swimlane diagrams         ✦ Confluence page structure
-✦ AS-IS / TO-BE mapping    ✦ Data-driven business cases
-✦ Failure point analysis
+ArtifactWhat it isBusiness Problem StatementStructured framing of the problem - situation, root cause, business impact, success criteriaStakeholder RegisterPower/interest matrix, RACI, and engagement strategy for six stakeholdersAS-IS Process MapBPMN 2.0 swimlane diagram of the current journey - six failure points annotatedUser Stories + Acceptance CriteriaTen sprint-ready stories with Given/When/Then criteria and MoSCoW prioritisationJira Sprint BoardSprint 1 loaded, story-pointed, and ready for planningTO-BE Process MapFuture-state BPMN diagram - same structure, failure points eliminated
 
-Repository structure
-agile-ba-sprint-showcase/
-│
-├── 01-business-problem-statement/
-│   └── business-problem-statement-v1.pdf
-│
-├── 02-stakeholder-register/
-│   └── stakeholder-register-v1.pdf
-│
-├── 03-asis-process-map/
-│   ├── asis-document-upload-v1.drawio      ← editable source
-│   └── asis-document-upload-v1.png         ← exported visual
-│
-├── 04-user-stories/
-│   └── user-stories-acceptance-criteria-v1.pdf
-│
-├── 05-jira-board/
-│   └── sprint-board-screenshot.png
-│
-├── 06-tobe-process-map/
-│   ├── tobe-document-upload-v1.drawio
-│   └── tobe-document-upload-v1.png
-│
-└── README.md
+How it was built
 
-Process maps — AS-IS vs TO-BE
+Agile BA practice - the way it works inside a real Scrum team. Each artifact maps to a sprint event: the problem statement justifies the work before Sprint 0, the process maps come from stakeholder interviews, the user stories are refined and sprint-ready before planning starts. Nothing is produced for its own sake.
+Tools: draw.io · Jira · Confluence · Markdown
 
-Diagrams coming in the next update. Preview below.
-
-AS-IS (current state) — 3 swimlanes, 6 failure points identified
-[BPMN diagram — uploading shortly]
-TO-BE (future state) — same lanes, failure points eliminated
-[BPMN diagram — uploading shortly]
-
-The methodology
-This project follows Agile BA practice — the way a BA actually works inside a Scrum team, not the waterfall version taught in textbooks.
-Each artifact maps to a real sprint event:
-
-Business Problem Statement → written before Sprint 0 to justify the work
-Stakeholder Register → completed in the discovery phase, before a single user story is written
-AS-IS Process Map → produced through stakeholder interviews and process observation
-User Stories + AC → written in Backlog Refinement, sprint-ready for Sprint 1
-Jira Board → the sprint loaded with Must-Have stories, story-pointed, and ready to go
-TO-BE Process Map → the target state that guides Sprint 1 delivery and UAT planning
+Part of an ongoing BA and data portfolio. Other projects cover ESG data quality, customer churn analysis, and data governance frameworks.
