@@ -1,4 +1,5 @@
 What this project is
+
 Most portfolios show code. This one shows what comes before the code.
 This repository contains the complete set of Business Analyst artifacts produced for a fictional but realistic Agile sprint at NedBank Digital — a Dutch mobile-first bank. The feature: redesigning a broken customer document upload journey that had a 32% drop-off rate and was costing the business an estimated €2.1M in annual revenue.
 The goal is simple: demonstrate what a senior BA actually produces in a 2-week sprint — from stakeholder analysis to signed-off user stories — and make that work visible.
