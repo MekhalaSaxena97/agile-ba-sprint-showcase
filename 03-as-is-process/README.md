@@ -3,7 +3,7 @@
 This folder contains the baseline process map architectural files and visual flow for the current identity verification journey.
 
 ### 🖼️ Visual Process Map
-![NedBank_AS-IS Process Map](NedBank_AS-IS%20Process%20Map.png)
+![NedBank AS-IS Process Map](NedBank_AS-IS%20Process%20Map.drawio.png)
 
 *📂 Download the source modeling file: [NedBank_AS-IS Process Map.drawio](NedBank_AS-IS%20Process%20Map.drawio)*
 
