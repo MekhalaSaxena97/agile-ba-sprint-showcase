@@ -1,7 +1,10 @@
 🔴 AS-IS process map — BPMN swimlane diagram
 This folder documents the baseline process map for the current NedBank Digital identity verification journey before any optimizations were implemented.
 
-![NedBank AS-IS Process Map](nedbank-as-is-process.png)
+### 🖼️ Visual Process Map
+![NedBank AS-IS Process Map](NedBank_AS-IS_Process_Map.png)
+
+*📂 Download the source modeling file: [NedBank_AS-IS Process Map.drawio](NedBank_AS-IS Process Map.drawio)*
 
 ### Key Process Gaps & Friction Points Identified:
 * **Feature Discovery Problem:** The journey is entirely passive and buried 3 levels deep under Settings. 40% of customers never locate the feature.
