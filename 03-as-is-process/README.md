@@ -5,7 +5,7 @@ This folder contains the baseline process map architectural files and visual flo
 ### 🖼️ Visual Process Map
 ![NedBank AS-IS Process Map](NedBank_AS-IS%20Process%20Map.drawio.png)
 
-*📂 Download the source modeling file: [NedBank_AS-IS Process Map.drawio](NedBank_AS-IS%20Process%20Map.drawio)*
+*📂 Download the source modeling file: [NedBank_AS-IS TO-BE Process Map.drawio](NedBank_AS-IS%20TO-BE%20Process%20Map.drawio)*
 
 ### Key Process Gaps Identified:
 * **Feature Discovery Problem:** The journey is entirely passive and buried 3 levels deep under Settings. 40% of customers never locate the feature.
