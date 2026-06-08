@@ -22,7 +22,7 @@ Every artifact presented in this repository corresponds directly to an active Ag
 
 ## 🛠️ The Operational Artifact Showcase
 
-### 📊 01 - Business Problem Statement
+### 01 - Business Problem Statement
 
 #### 📜 A Brief History of Writing Things Down (Before Building Them)
 Long before the internet, ancient builders realized that starting a monument without counting the stones usually led to a very expensive pile of rubble. Somewhere around the industrial revolution, this survival instinct evolved into the "Business Case"- a formal way of asking, *"Are we throwing good money after a bad process?"* 
@@ -40,7 +40,7 @@ That is exactly why this document was authored on June 5, 2026. Before a single 
 
 ---
 
-### 👥 02 - Stakeholder Register & Governance Framework
+### 02 - Stakeholder Register & Governance Framework
 
 #### 👑 The Art of Herding Cats (And Avoiding Project Sabotage)
 If you think of a high-friction corporate project as a high-stakes theatrical production, it becomes immediately clear that a script is useless if the actors are refusing to step onto the stage together. You can design the most flawless process in the world, but if you don't actively navigate the human egos, competing agendas, and hidden veto powers behind the scenes, your final curtain will drop long before your first deployment. 
@@ -58,7 +58,7 @@ This governance framework was built during Sprint 0 to establish ironclad commun
 
 ---
 
-### 🔴 03 - AS-IS Process Map
+### 03 - AS-IS Process Map
 
 #### 🕵️‍♂️ The Art of Forensic Diagnosis (Mapping the Mess)
 If you ask a broken system's users why things are failing, they will usually give you symptoms: *"The app is slow,"* or *"It just gave me an error."* But a great Business Analyst doesn't build solutions based on complaints; they look for the structural leaks. You have to map the current chaos exactly as it exists today, without sugarcoating the bottlenecks, to prove precisely where the money and the users are bleeding out.
@@ -79,7 +79,7 @@ In many corporate projects, teams draw an "AS-IS" map simply to check a box in t
 
 ---
 
-### 📋 04 - User Stories & Acceptance Criteria
+### 04 - User Stories & Acceptance Criteria
 
 #### 🏗️ Building Bridges (And Preventing Developer Mind-Reading)
 Think of a complex software requirement like a blueprint for a modern bridge; you wouldn't hand a construction crew a napkin sketch that says *"make a crossing here"* and expect the structure to hold under pressure. Yet, asking an engineering team to code a high-stakes, compliance-egulated feature based on vague corporate bullet points happens every single day, with disastrous results. 
@@ -95,7 +95,7 @@ In many product teams, user stories are treated like a compliance chore shallow 
 
 ---
 
-### 💻 05 - Jira Sprint Board
+### 05 - Jira Sprint Board
 
 #### 🏃‍♂️ Moving from Paper to Production
 A beautiful process map looks great on a slide deck, but until you break it down into actual developer tickets with point estimates and clear ownership, it’s just expensive wall art. The ultimate test of a Business Analyst isn't just diagnosing a problem-it’s handing an engineering team a backlog that reads with absolute clarity on Monday morning.
@@ -112,7 +112,7 @@ When Jira was introduced to software development teams back in 2002, it changed 
 
 ---
 
-### 🟢 06 - TO-BE Process Map
+### 06 - TO-BE Process Map
 
 #### 🚀 The Anatomy of a High-Conversion Funnel
 Identifying a business bottleneck is only half the battle; the real mastery lies in architecting the structural escape route. This blueprint isn't an idealistic wish list-it is an engineering blueprint designed to ruthlessly eliminate friction, automate regulatory compliance, and drop onboarding churn below our 10% target.
