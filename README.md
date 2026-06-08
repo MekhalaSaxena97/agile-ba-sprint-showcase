@@ -50,7 +50,7 @@ In the tech industry, teams often treat a "Stakeholder Register" as a boring cor
 This governance framework was built during Sprint 0 to establish ironclad communication lanes early. It ensures that product, legal, and engineering actors are perfectly aligned on who owns what decision, removing political roadblocks long before the sprint backlog is committed.
 
 #### 📋 What This Artifact Proves:
-*   **The Power/Interest Matrix:** A strategic teardown partitioning our six core actors based on their organizational influence—ensuring we closely collaborate with heavy-hitters like Product and Compliance, while keeping Customer Service and Data Analytics efficiently informed.
+*   **The Power/Interest Matrix:** A strategic teardown partitioning our six core actors based on their organizational influence-ensuring we closely collaborate with heavy-hitters like Product and Compliance, while keeping Customer Service and Data Analytics efficiently informed.
 *   **The Engagement Strategy:** A highly targeted playbook mapping individual motivations, ranging from our UX designer's need for compliance constraints upfront to our Backend Developer's insistence on pre-defined non-functional size and format limits.
 *   **The Decision-Making RACI:** A clear blueprint defining exactly who is Responsible, Accountable, Consulted, and Informed across high-stakes sprint crossroads, ensuring our Compliance Officer has explicit sign-off authority on acceptance criteria before any development kicks off.
 
