@@ -7,6 +7,7 @@ A Dutch digital bank was losing one in three customers during identity verificat
 This project documents everything a Business Analyst produces to fix that - from the moment the problem is defined to the point a development team can pick up the work and build without ambiguity.
 
 The artifacts
+
 01 - Business Problem Statement
 The starting point. Defines the situation, what it is costing the business, the root cause (found through a structured 5 Whys analysis), and how success will be measured. Written before a single user story exists.
 
