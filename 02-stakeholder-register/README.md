@@ -12,7 +12,7 @@ This governance framework was built during Sprint 0 to establish ironclad commun
 ## 🔍 What's Inside This Artifact
 This registry cuts through structural silos to map out clear operational guardrails for our cross-functional team:
 
-*   **The Power/Interest Matrix:** A strategic teardown partitioning our six core actors based on their organizational influence—ensuring we closely collaborate with heavy-hitters like Product and Compliance, while keeping Customer Service and Data Analytics efficiently informed[cite: 4].
+*   **The Power/Interest Matrix:** A strategic teardown partitioning our six core actors based on their organizational influence-ensuring we closely collaborate with heavy-hitters like Product and Compliance, while keeping Customer Service and Data Analytics efficiently informed[cite: 4].
 *   **The Engagement Strategy:** A highly targeted playbook mapping individual motivations, ranging from our UX designer's need for compliance constraints upfront to our Backend Developer's insistence on pre-defined non-functional size and format limits[cite: 4].
 *   **The Decision-Making RACI:** A clear blueprint defining exactly who is Responsible, Accountable, Consulted, and Informed across high-stakes sprint crossroads, ensuring our Compliance Officer has explicit sign-off authority on acceptance criteria before any development kicks off[cite: 4].
 
