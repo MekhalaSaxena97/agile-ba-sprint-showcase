@@ -33,7 +33,7 @@ That is exactly why this document was authored on June 5, 2026. Before a single 
 
 #### 📋 What This Artifact Proves:
 *   **The Diagnostic (5 Whys):** A ruthless teardown that bypasses technical excuses to prove that our 32% drop-off rate was caused by a forgotten 2021 web design lazily migrated onto mobile devices without an assigned product owner.
-*   **The Damage Report:** The raw financial cost of the friction—specifically, €2.1M in frozen premium product revenue, a €313K mountain of completely avoidable customer support tickets, and severe regulatory Wwft compliance exposure.
+*   **The Damage Report:** The raw financial cost of the friction-specifically, €2.1M in frozen premium product revenue, a €313K mountain of completely avoidable customer support tickets, and severe regulatory Wwft compliance exposure.
 *   **The North Star:** Legally vetted target benchmarks like slashing drop-offs below 10% and compressing a 4.2-day manual compliance wait into a tight, under 24-hour turnaround window.
 
 *📥 **Download the full business specification brief:** [NedBank Digital Business Statement.pdf](./01-business-problem-statement/NedBank%20Digital%20Business%20Statement.pdf)*
