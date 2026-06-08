@@ -21,13 +21,15 @@ The current journey drawn in BPMN 2.0 across three swimlanes - Customer, System,
 Ten sprint-ready user stories with Given/When/Then acceptance criteria and a MoSCoW prioritisation. Written so that a developer reading them on a Monday morning knows exactly what to build and exactly when it is done.
 
 05 - Jira Sprint Board
+
 Sprint 1 set up and loaded. 
-Must-Have stories committed, story-pointed, and in progress. This is what the work looks like inside the machine.
+Must-have stories committed, story-pointed, and in progress. This is what the work looks like inside the machine.
 
 06 - TO-BE Process Map
 The future state. Same three swimlanes, same BPMN notation - but the failure points are gone, replaced with six green improvement annotations. The retry loop replaces the dead end. The 4.2-day wait becomes a 24-hour SLA.
 
 How this was built
+
 Every artifact connects to a real sprint event. The problem statement existed before Sprint 0. The process maps came out of stakeholder interviews. The user stories were refined and sprint-ready before planning started. Nothing was produced for its own sake.
 
 The root cause of the problem - a governance gap, not a technical failure was found through a 5 Whys analysis. That distinction mattered. It changed what the solution needed to be.
