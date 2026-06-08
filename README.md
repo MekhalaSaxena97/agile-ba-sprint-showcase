@@ -82,7 +82,7 @@ In many corporate projects, teams draw an "AS-IS" map simply to check a box in t
 ### 📋 04 - User Stories & Acceptance Criteria
 
 #### 🏗️ Building Bridges (And Preventing Developer Mind-Reading)
-Think of a complex software requirement like a blueprint for a modern bridge; you wouldn't hand a construction crew a napkin sketch that says *"make a crossing here"* and expect the structure to hold under pressure. Yet, asking an engineering team to code a high-stakes, compliance-regulated feature based on vague corporate bullet points happens every single day, with disastrous results. 
+Think of a complex software requirement like a blueprint for a modern bridge; you wouldn't hand a construction crew a napkin sketch that says *"make a crossing here"* and expect the structure to hold under pressure. Yet, asking an engineering team to code a high-stakes, compliance-egulated feature based on vague corporate bullet points happens every single day, with disastrous results. 
 
 In many product teams, user stories are treated like a compliance chore shallow sentences scribbled down minutes before a sprint planning session. In reality, they are the vital translation layer between a business strategy and technical execution. A truly great user story removes the need for telepathy. It ensures that an engineer sitting down to write code on a Monday morning knows exactly what parameters constitute success, and a QA tester knows exactly how to validate the feature before it ever reaches a real customer.
 
