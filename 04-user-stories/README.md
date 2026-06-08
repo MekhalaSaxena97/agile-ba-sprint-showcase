@@ -1,4 +1,4 @@
-# 📋 User Stories & Acceptance Criteria
+# 📋 User Stories & Acceptance Criteria 
 
 ## 🏗️ Building Bridges (And Preventing Developer Mind-Reading)
 Think of a complex software requirement like a blueprint for a modern bridge; you wouldn't hand a construction crew a napkin sketch that says *"make a crossing here"* and expect the structure to hold under pressure. Yet, asking an engineering team to code a high-stakes, compliance-regulated feature based on vague corporate bullet points happens every single day, with disastrous results. 
