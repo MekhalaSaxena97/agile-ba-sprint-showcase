@@ -40,7 +40,7 @@ Every artifact presented in this repository corresponds directly to an active Ag
 To prove that the bank's conversion bottleneck was a product governance gap rather than an infrastructure failure, I conducted a deep **5 Whys Analysis**[cite: 2]. You can view the structural root cause mapping below:
 
 ### 🖼️ Root Cause Analysis (Fishbone Diagram)
-![NedBank Root Cause Analysis](fishbone-root-cause-analysis.png)
+![NedBank Root Cause Analysis](fishbone-root-cause-v1.drawio.png)
 
 ---
 
