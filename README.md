@@ -1,4 +1,5 @@
 Agile BA Sprint Showcase
+
 There is a lot of noise on the internet about what a Business Analyst does.
 This project shows it.
 
