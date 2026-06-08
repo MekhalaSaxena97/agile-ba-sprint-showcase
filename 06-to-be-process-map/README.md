@@ -1,6 +1,11 @@
-# 🟢 TO-BE Process Map — Future State Optimization
+# 🟢 TO-BE Process Map - Future State Optimization
 
-This folder contains the optimized future-state workflow modeled to remove customer drop-off friction, bypass heavy manual compliance verification, and reduce user drop-offs to ≤10%[cite: 1].
+## 🚀 The Art of Re-Engineering (Designing the Fix)
+If an AS-IS process map is a crime scene investigation, a TO-BE process map is the architectural blueprint for the rebuild. Identifying a business bottleneck is only half the battle; the real mastery lies in architecting the structural escape route. This blueprint isn't an idealistic wish list—it is an engineering blueprint designed to ruthlessly eliminate friction, automate regulatory compliance, and drop onboarding churn below our 10% target[cite: 1].
+
+By re-engineering the touchpoints across the Customer, System, and Compliance swimlanes, this future-state workflow systematically replaces dead-ends with intelligent self-correcting feedback loops. It transforms verification from an administrative barrier into a competitive product advantage.
+
+---
 
 ### 🖼️ Visual Process Map
 ![NedBank TO-BE Process Map](NedBank_TO-BE%20Process%20Map.drawio.png)
@@ -9,22 +14,12 @@ This folder contains the optimized future-state workflow modeled to remove custo
 
 ---
 
-### 🛠️ Strategic UX & Technical Enhancements Modeled:
+## 🔍 What's Inside This Artifact
+This future-state workflow introduces six strategic, green-annotated enhancements designed to collapse our drop-off rate to $\le10\%$[cite: 1]:
 
-1. **Proactive Entry Point (Step 1)**
-   * *Improvement:* The discovery layer hurdle is completely eliminated by introducing a high-visibility, single-tap verification prompt directly on the home login screen[cite: 1]. 
-   * *Metric Impact:* Reduces legacy step 1–2 navigation drop-offs by an estimated 40%[cite: 1].
-
-2. **Real-Time Photo Quality Assist (Step 3)**
-   * *Improvement:* Real-time framing, brightness, and glare feedback overlays are embedded directly into the mobile camera view[cite: 1]. The submit button remains disabled until quality conditions pass[cite: 1].
-   * *Metric Impact:* Eliminates blurred, poorly framed, or unreadable document submissions before they can ever contaminate the review queue[cite: 1].
-
-3. **Automated 4-Point Pre-Validation Gateway (Step 5)**
-   * *Improvement:* Introduces an instantaneous, 3-second systemic background check evaluating file format, file size limits, minimum DPI resolution, and document side completeness[cite: 1].
-
-4. **Self-Service Error Resolution Loop (Step 5a)**
-   * *Improvement:* If automated validation fails, the user isn't given a generic error message[cite: 1]. Instead, the system displays the exact failure reason accompanied by an immediate retry loop that pre-fills their prior selections[cite: 1].
-   * *Metric Impact:* Eliminates up to 65% of legacy rejection abandonments by allowing customers to immediately fix errors themselves[cite: 1].
-
-5. **Optimized Compliance Workload (Step 6)**
-   * *Improvement:* Because the system filters out all invalid data upfront, compliance team operations receive structured metadata and handle valid documents only, slashing turnaround times down to under 24 hours[cite: 1].
+*   **The Proactive Entry Point:** Moves the entire feature from a buried menu into a single-tap dashboard smart prompt, turning a passive discovery problem into an active onboarding catalyst.
+*   **The Guided Selection Layer:** Introduces upfront visual guidance and thumbnail examples, eliminating user guesswork before a file is ever captured.
+*   **The Real-Time Guardrail:** Embeds live photo-quality checks to intercept blur, glare, or sizing errors instantly, preventing invalid data from submitting.
+*   **The Intelligent Retry Loop:** Replaces the generic dead-end error message with a dynamic system gateway that provides explicit, actionable rejection reasons and a self-service recovery path.
+*   **The Automated Sieve:** Implements a systemic 4-point pre-validation check that filters incomplete submissions out entirely before they can infect the operations queue.
+*   **The Accelerated SLA:** Compresses the manual compliance bottleneck into a clean, valid-only stream, successfully driving processing times from 4.2 days down to a tight under-24-hour turnaround window[cite: 2].
