@@ -1,4 +1,4 @@
-# 🟢 TO-BE Process Map — Future State Optimization
+# 🟢 TO-BE Process Map - Future State Optimization
 
 This folder houses the re-engineered future-state workflow mapping out automated validation loops. The visual blueprint and full technical analysis of the six optimization catalysts are displayed on the [Main Repository README](../README.md#06--to-be-process-map).
 
