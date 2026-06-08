@@ -7,7 +7,7 @@ There is a lot of noise online about what a Business Analyst actually does. This
 ### 📉 The Friction Point
 A mobile-first Dutch digital bank was watching one in three potential customers walk out the door during identity verification[cite: 2]. The underlying system wasn't broken; the experience was[cite: 2]. The upload journey had been copy-pasted directly from an old 2021 web design to mobile, left without an operational owner, and stripped of an active SLA[cite: 2]. Instead of guiding users, the application fired a cold, generic error message that permanently scared away 65% of customer drop-offs[cite: 2].
 
-This portfolio documents the exact trace a Business Analyst leaves behind when diagnosing this chaos—transforming a massive customer drop-off loop into clean, strategic, and developer-ready logic[cite: 2].
+This portfolio documents the exact trace a Business Analyst leaves behind when diagnosing this chaos-transforming a massive customer drop-off loop into clean, strategic, and developer-ready logic[cite: 2].
 
 ---
 
