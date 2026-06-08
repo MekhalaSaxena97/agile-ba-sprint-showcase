@@ -1,22 +1,22 @@
-# 👥 Stakeholder Register & Governance Framework
+# 📋 User Stories & Acceptance Criteria
 
-## 👑 The Art of Herding Cats (And Avoiding Project Sabotage)
-If you think of a high-friction corporate project as a high-stakes theatrical production, it becomes immediately clear that a script is useless if the actors are refusing to step onto the stage together. You can design the most flawless process in the world, but if you don't actively navigate the human egos, competing agendas, and hidden veto powers behind the scenes, your final curtain will drop long before your first deployment. 
+## 🏗️ Building Bridges (And Preventing Developer Mind-Reading)
+Think of a complex software requirement like a blueprint for a modern bridge; you wouldn't hand a construction crew a napkin sketch that says *"make a crossing here"* and expect the structure to hold under pressure. Yet, asking an engineering team to code a high-stakes, compliance-regulated feature based on vague corporate bullet points happens every single day, with disastrous results. 
 
-In the tech industry, teams often treat a "Stakeholder Register" as a boring corporate directory of names and email addresses. But in reality, it is a risk mitigation map. If you treat a regulatory Compliance Officer like an afterthought, or keep your UX designer completely in the dark until user testing, you are actively inviting scope creep and last-minute architectural rejections. 
+In many product teams, user stories are treated like a compliance chore-shallow sentences scribbled down minutes before a sprint planning session. In reality, they are the vital translation layer between a business strategy and technical execution. A truly great user story removes the need for telepathy. It ensures that an engineer sitting down to write code on a Monday morning knows exactly what parameters constitute success, and a QA tester knows exactly how to validate the feature before it ever reaches a real customer.
 
-This governance framework was built during Sprint 0 to establish ironclad communication lanes early. It ensures that product, legal, and engineering actors are perfectly aligned on who owns what decision, removing political roadblocks long before the sprint backlog is committed.
+This requirements catalog translates our optimized future-state process map into highly granular, development-ready building blocks. 
 
 ---
 
 ## 🔍 What's Inside This Artifact
-This registry cuts through structural silos to map out clear operational guardrails for our cross-functional team:
+This backlog cuts out engineering guesswork by structuring features across strict delivery guardrails:
 
-*   **The Power/Interest Matrix:** A strategic teardown partitioning our six core actors based on their organizational influence-ensuring we closely collaborate with heavy-hitters like Product and Compliance, while keeping Customer Service and Data Analytics efficiently informed[cite: 4].
-*   **The Engagement Strategy:** A highly targeted playbook mapping individual motivations, ranging from our UX designer's need for compliance constraints upfront to our Backend Developer's insistence on pre-defined non-functional size and format limits[cite: 4].
-*   **The Decision-Making RACI:** A clear blueprint defining exactly who is Responsible, Accountable, Consulted, and Informed across high-stakes sprint crossroads, ensuring our Compliance Officer has explicit sign-off authority on acceptance criteria before any development kicks off[cite: 4].
+*   **Behavior-Driven Development (BDD) Framework:** Every requirement is rigorously defined using the clear *Given/When/Then* narrative pattern-explicitly mapping out hard engineering thresholds like 3-second system timeout responses and real-time photo blur detection limits[cite: 3].
+*   **The MoSCoW Prioritisation Matrix:** A clear, strategic breakdown dividing our 10 user stories into non-negotiable core launch features (Must-Haves) and valuable down-funnel enhancements (Should and Could-Haves) to respect sprint capacity constraints[cite: 3].
+*   **Cross-Functional Guardrails:** Embedded non-functional specs covering automated 4-point systemic pre-validation gates (format checks, resolution maximums, and document side validation) alongside deep real-time CRM tracking requirements[cite: 3].
 
 ---
 
 ## 📂 Source Document Link
-*📂 Download the full stakeholder register specification: [NedBank Digital Stakeholder Register.pdf](NedBank%20Digital%20Stakeholder%20Register.pdf)*
+*📂 Download the full requirement specifications: [NedBank Digital User Stories.pdf](NedBank%20Digital%20User%20Stories.pdf)*
