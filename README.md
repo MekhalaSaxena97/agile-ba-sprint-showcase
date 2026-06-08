@@ -21,7 +21,6 @@ The current journey drawn in BPMN 2.0 across three swimlanes - Customer, System,
 Ten sprint-ready user stories with Given/When/Then acceptance criteria and a MoSCoW prioritisation. Written so that a developer reading them on a Monday morning knows exactly what to build and exactly when it is done.
 
 05 - Jira Sprint Board
-
 Sprint 1 set up and loaded. 
 Must-have stories committed, story-pointed, and in progress. This is what the work looks like inside the machine.
 
